@@ -29,8 +29,9 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - Augmentor - version 0.2.10
 
 ## Conclusions
-- Validation accuracy **appx 84%**.
-- Model accuracy **appx 96%**.
+- Validation accuracy **appx 80%**.
+- Model accuracy **appx 95%**.
+- Though the model accuracy has improved, the class rebalancing has help in treating the overfitting.
 
 ## Acknowledgements
 - Reference file provided by Upgrad Learn Portal
